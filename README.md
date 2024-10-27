@@ -1,3 +1,13 @@
+## Dataset
+
+This project uses a dataset that is too large to be stored in this repository. You can download it from the following link:
+
+https://drive.google.com/drive/folders/14QAl6T8NNEgjIIzV6Ew_OlukGhnyOA77?usp=sharing
+
+### Instructions
+
+After downloading the dataset, place it in the `data/` folder in the project root.
+
 # herb_identifier
 
 A new Flutter project.
