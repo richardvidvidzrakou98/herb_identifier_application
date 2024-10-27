@@ -6,7 +6,7 @@ https://drive.google.com/drive/folders/14QAl6T8NNEgjIIzV6Ew_OlukGhnyOA77?usp=sha
 
 ### Instructions
 
-After downloading the dataset, place it in the `data/` folder in the project root.
+
 
 # herb_identifier
 
