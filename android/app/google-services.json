@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "510491290863",
+    "project_id": "herb-indentifier",
+    "storage_bucket": "herb-indentifier.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510491290863:android:23e870d7a8d72936323f1a",
+        "android_client_info": {
+          "package_name": "com.example.herb_identifier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510491290863-dhc0knp6mrq9fein7njki4c9j48aieq5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.herb_identifier",
+            "certificate_hash": "664f6edaac5ed6fd357a4cf4f361bec759b1fed8"
+          }
+        },
+        {
+          "client_id": "510491290863-ncnaue76bmmpimb74mk5pd3g1d87u4r2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfW9orObSyan_g0kDUcDHxccFpeMdKTXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510491290863-ncnaue76bmmpimb74mk5pd3g1d87u4r2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "510491290863-lav2fdknkjo5s8o8rka8svc3s7ihnosc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.herbIdentifier"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510491290863:android:f392d390a1b5fdc8323f1a",
+        "android_client_info": {
+          "package_name": "com.example.herb_identifier_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510491290863-ncnaue76bmmpimb74mk5pd3g1d87u4r2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfW9orObSyan_g0kDUcDHxccFpeMdKTXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510491290863-ncnaue76bmmpimb74mk5pd3g1d87u4r2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "510491290863-lav2fdknkjo5s8o8rka8svc3s7ihnosc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.herbIdentifier"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
